@@ -8,3 +8,4 @@ label = tk.Label(
     background = "black")
 label.pack()
 main_window.mainloop()
+ 
